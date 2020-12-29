@@ -5,4 +5,4 @@ Have a look at my work.
 https://public.tableau.com/profile/rakesh.kumra.sahoo#!/vizhome/EDAOnBikesData/CountVsHoursinYear2011
 
 
-Go through every slides and Explore.
+Go through every WorkSheets and Explore.
